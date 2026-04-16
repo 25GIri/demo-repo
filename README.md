@@ -1,4 +1,4 @@
 # demo-repo
 Demo Repository
 <br>
-auhtor Gireesh
+author Gireesh
